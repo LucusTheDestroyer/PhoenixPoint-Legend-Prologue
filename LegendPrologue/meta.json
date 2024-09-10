@@ -1,0 +1,24 @@
+{
+  "ID": "Lucus.LegendPrologue",
+  "AssemblyName": "LegendPrologue.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Lucus"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Legend Prologue and Tutorial"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Allows the Prologue and Tutorial to be played on Legend difficulty."
+    }
+  ],
+  "Dependencies": []
+}
